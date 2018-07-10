@@ -12,3 +12,5 @@ Future Scope:
 This model might fail in the case where the lane line is completely covered by a shadow or if too much noise exits. To make it more robust we need to use the info about lanes detected in the previous frames to detect in the current frame. This approach would make the model more robust and also increases the speed of detection considerably.
 
 Final image, video of lane detection are in the repository.
+
+Youtube link to project output : https://youtu.be/mpxYn9ggiC0 
